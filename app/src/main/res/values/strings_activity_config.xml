@@ -1,0 +1,10 @@
+<resources>
+    <!-- Strings related to Config -->
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_patient_number">Medical Records Number</string>
+    <string name="hint_endpoint">Url Information Patient</string>
+    <string name="action_configuration">Configuration</string>
+    <string name="message_configuration">Information provided by clinical care center</string>
+    <string name="message_incorrect_endpoint">Endpoint is incorrect</string>
+</resources>

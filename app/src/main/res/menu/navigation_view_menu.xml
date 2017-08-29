@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home"
+            android:title="@string/item_home" />
+        <item
+            android:id="@+id/item_patient"
+            android:icon="@drawable/ic_patient"
+            android:title="@string/item_patient" />
+        <item
+            android:id="@+id/item_provider"
+            android:icon="@drawable/ic_store"
+            android:title="@string/item_provider" />
+        <item
+            android:id="@+id/item_episode"
+            android:icon="@drawable/ic_file_document"
+            android:title="@string/item_episode" />
+
+        <item
+            android:id="@+id/item_document"
+            android:icon="@drawable/ic_file_document"
+            android:title="@string/item_document" />
+
+        <!-- Configuration Section -->
+        <item
+            android:id="@+id/configuration_section"
+            android:title="@string/item_configuration">
+            <menu>
+                <item
+                    android:id="@+id/item_account"
+                    android:icon="@drawable/ic_account"
+                    android:title="@string/item_account" />
+                <item
+                    android:id="@+id/item_setting"
+                    android:icon="@drawable/ic_configuration"
+                    android:title="@string/item_setting" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

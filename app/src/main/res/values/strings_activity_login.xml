@@ -1,0 +1,11 @@
+<resources>
+    <!-- Strings related to Login -->
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="message_not_account">No account, contact your clinical care center</string>
+    <string name="message_invalid_username">This user name is invalid</string>
+    <string name="message_invalid_password">Password is too short</string>
+    <string name="message_incorrect_password">Password is incorrect</string>
+    <string name="message_field_required">This field is required</string>
+</resources>

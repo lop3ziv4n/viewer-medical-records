@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Viewer Medical Records</string>
+
+    <!-- Main Menu -->
+    <string name="item_search">Search</string>
+
+    <!-- Navigation Menu -->
+    <string name="item_home">Home</string>
+    <string name="item_patient">Patient</string>
+    <string name="item_provider">Center</string>
+    <string name="item_episode">Episode</string>
+    <string name="item_document">Document</string>
+    <string name="item_setting">Setting</string>
+    <string name="item_account">Account</string>
+    <string name="item_configuration">Configuration</string>
+
+    <!-- Navigation Header -->
+    <string name="header_medical_records_number">Medical Records Number</string>
+
+    <!-- Patient Fragment -->
+    <string name="patient_fragment_title">Patient</string>
+    <string name="patient_fragment_document">Identity Document</string>
+    <string name="patient_fragment_patient">Patient Code</string>
+    <string name="patient_fragment_name">Name</string>
+    <string name="patient_fragment_surname">Surname</string>
+    <string name="patient_fragment_sex">Sex</string>
+    <string name="patient_fragment_birth_date">Birth Date</string>
+    <string name="patient_fragment_telephone">Telephone</string>
+
+    <!-- Address Fragment -->
+    <string name="address_fragment_title">Address</string>
+    <string name="address_fragment_street_address">Street Address</string>
+    <string name="address_fragment_city">City</string>
+    <string name="address_fragment_state">State</string>
+    <string name="address_fragment_postal_code">Postal Code</string>
+    <string name="address_fragment_country">Country</string>
+    <string name="address_fragment_county">County</string>
+    <string name="address_fragment_additional_locator">Additional Locator</string>
+
+    <!-- Center Fragment -->
+    <string name="center_fragment_title">Center</string>
+    <string name="center_fragment_name">Name</string>
+    <string name="center_fragment_section">Section</string>
+    <string name="center_fragment_service">Service</string>
+    <string name="center_fragment_speciality">Speciality</string>
+    <string name="center_fragment_sub_speciality">Sub Speciality</string>
+    <string name="center_fragment_telephone">Telephone</string>
+
+    <!-- Episode Fragment -->
+    <string name="episode_fragment_title">Episode</string>
+    <string name="episode_fragment_episode">Episode Code</string>
+    <string name="episode_fragment_type">Type</string>
+    <string name="episode_fragment_scope">Scope</string>
+    <string name="episode_fragment_date_admission">Date Admission</string>
+    <string name="episode_fragment_date_discharge">Date Discharge</string>
+    <string name="episode_fragment_discharge_disposition">Discharge Disposition</string>
+    <string name="episode_fragment_discharge_location">Discharge Location</string>
+
+    <!-- Document Fragment -->
+    <string name="document_fragment_title">Document</string>
+    <string name="document_fragment_document">Document Code</string>
+    <string name="document_fragment_type">Type</string>
+    <string name="document_fragment_version">Version</string>
+    <string name="document_fragment_date_created">Date Created</string>
+
+    <!-- Clinic Content Fragment -->
+    <string name="clinic_content_fragment_title">Clinic Content</string>
+    <string name="clinic_content_fragment_section">Section</string>
+    <string name="clinic_content_fragment_description">Description</string>
+
+    <!-- Health Plan Fragment -->
+    <string name="health_plan_fragment_title">Health Plan</string>
+    <string name="health_plan_fragment_number_affiliate">Number Affiliate</string>
+    <string name="health_plan_fragment_surname_affiliate">Surname Affiliate</string>
+    <string name="health_plan_fragment_name_affiliate">Name Affiliate</string>
+    <string name="health_plan_fragment_code_health_plan">Code Health Plan</string>
+    <string name="health_plan_fragment_name_health_plan">Name Health Plan</string>
+    <string name="health_plan_fragment_code_organization">Code Organization</string>
+    <string name="health_plan_fragment_name_organization">Name Organization</string>
+
+    <!-- Medical Signer Fragment -->
+    <string name="medical_signer_fragment_title">Medical Signer</string>
+    <string name="medical_signer_fragment_type_matriculation">Type Matriculation</string>
+    <string name="medical_signer_fragment_number_matriculation">Number Matriculation</string>
+    <string name="medical_signer_fragment_speciality">Speciality</string>
+    <string name="medical_signer_fragment_sub_speciality">Sub Speciality</string>
+    <string name="medical_signer_fragment_telephone">Telephone</string>
+    <string name="medical_signer_fragment_surname">Surname</string>
+    <string name="medical_signer_fragment_name">Name</string>
+
+    <!--Account Fragment -->
+    <string name="account_fragment_title">Account</string>
+    <string name="account_fragment_name">Name Surname</string>
+    <string name="account_fragment_email">Email</string>
+    <string name="account_fragment_medical_records_number">Medical Records Number</string>
+    <string name="account_fragment_endpoint">Url Information Patient</string>
+    <string name="account_fragment_action_logout">Logout</string>
+
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Dimen Activity Margin -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_top_margin">8dp</dimen>
+    <dimen name="activity_bottom_margin">8dp</dimen>
+
+    <!-- Dimen NavigationView Header -->
+    <dimen name="header_left_padding">16dp</dimen>
+    <dimen name="header_height">192dp</dimen>
+    <dimen name="header_text_margin">12dp</dimen>
+
+    <!-- Dimen CircleImageView Profile -->
+    <dimen name="circle_image_size">64dp</dimen>
+    <dimen name="circle_image_margin">16dp</dimen>
+    <dimen name="circle_image_border">1dp</dimen>
+
+    <!-- Dimen ExpandableListView -->
+    <dimen name="expandable_list_view_padding">5dp</dimen>
+    <dimen name="expandable_list_view_divider_height">1dp</dimen>
+
+    <!-- Dimen Text Fragment -->
+    <dimen name="text_fragment_title">30dp</dimen>
+    <dimen name="text_fragment_margin">5dp</dimen>
+
+    <!-- Dimen Image Recycler Item -->
+    <dimen name="recycler_item_image_size">40dp</dimen>
+    <dimen name="recycler_item_image_margin_start">60dp</dimen>
+
+    <!-- Dimen Recycler Item -->
+    <dimen name="recycler_item_line_size">2dp</dimen>
+    <dimen name="recycler_item_table_padding">10dp</dimen>
+    <dimen name="recycler_item_text_padding">2dp</dimen>
+
+    <!-- Dimen Activity Text-->
+    <dimen name="text_message_not_account_size">16sp</dimen>
+    <dimen name="text_app_name_size">30sp</dimen>
+
+</resources>
